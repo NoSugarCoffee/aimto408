@@ -4,4 +4,11 @@
 
 
 
-如有下载不畅，请在issues中说明，或者邮件：xuelei0227@foxmail.com联系
+
+
+
+添加了天勤与王道2022年pdf，稍后一段时间会更新到仓库中，
+链接：https://pan.baidu.com/s/1eUCVGn7xciTJJN7ei6QTLQ 
+提取码：2022 
+
+如有下载不畅或者百度网盘失效，请在issues中说明，或者邮件：xuelei0227@foxmail.com联系
