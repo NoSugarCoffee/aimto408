@@ -8,7 +8,7 @@
 
 
 添加了天勤与王道2022年pdf,添加了往年真题合集,由于个人网络问题，暂时不传到库中，请使用百度云下载
-链接：https://pan.baidu.com/s/1E-PcBrfcIVaajGerf7F-Bg 
+链接：https://pan.baidu.com/s/172uVf1HoGq5gktDCZoGNnA 
 提取码：2022 
 
 如有下载不畅或者百度网盘失效，请在issues中说明，或者邮件：xuelei0227@foxmail.com联系
