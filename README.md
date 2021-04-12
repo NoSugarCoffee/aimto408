@@ -10,18 +10,8 @@
 
 #### 21.03.27：云盘里添加了2016年和2021年天勤八套卷，增加了2020年408考题，网络依旧太差，编辑这个readme已经费了老大劲，所以库中还是没更新，请及时去云盘下载
 
-#### 21.04.12 更新天勤到仓库中
+#### 21.04.12 更新到仓库，如有需要云盘链接请按下面方法联系
 
-链接：https://pan.baidu.com/s/1hoH9DPEyXfJj_U1L9rQJPQ 
-提取码：2022 
-复制这段内容后打开百度网盘手机App，操作更方便哦
 
-链接：https://pan.baidu.com/s/1hhM7ZGUJiewP8PvIxqtuRQ 
-提取码：2022 
-复制这段内容后打开百度网盘手机App，操作更方便哦
 
-链接：https://pan.baidu.com/s/15RuV9_zOj-vZuI5RxeTYUg 
-提取码：2022 
-复制这段内容后打开百度网盘手机App，操作更方便哦
-
-如有下载不畅或者百度网盘失效，请在issues中说明，或者邮件：xuelei0227@foxmail.com联系
+如有下载不畅，请在issues中说明，或者邮件：xuelei0227@foxmail.com联系
